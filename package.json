@@ -1,0 +1,24 @@
+{
+  "name": "academics",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('npm')",
+    "start": "node app.js"
+  },
+  "author": "Bicky",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1",
+    "mssql": "^5.1.0",
+    "node-spotify-api": "^1.1.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "request": "^2.88.0",
+    "xlsx": "^0.15.2"
+  }
+}

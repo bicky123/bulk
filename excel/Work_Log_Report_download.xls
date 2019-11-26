@@ -1,0 +1,70 @@
+<style> .textmode { display: inline-table; vertical-align: middle; } </style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<td align="center" valign="middle" colspan="9" style="color:White;background-color:DarkSlateBlue;font-size:16pt;font-weight:bold;height:80px;">Work Log Report (10/16/2019 to 11/22/2019)</td>
+		</tr><tr style="background-color:White;">
+			<th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Name</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Email</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Project Name</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Task Category</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Task/Issue/Ticket Id</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Task/Issue/Ticket Title</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Hours</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Day</th><th scope="col" style="color:White;background-color:DarkCyan;font-weight:bold;height:40px;">Notes</th>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Virtue Dating App</td><td class="textmode">Development</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">20 Nov, 2019</td><td class="textmode">Today I  have Create API For Virtue Dating App</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Virtue Dating App</td><td class="textmode">Development</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">19 Nov, 2019</td><td class="textmode">Today I  have Create API For Virtue Dating App</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Virtue Dating App</td><td class="textmode">Development</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">18 Nov, 2019</td><td class="textmode">Today I  have Create API For Virtue Dating App</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Virtue Dating App</td><td class="textmode">Development</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">15 Nov, 2019</td><td class="textmode">Today I have set User Preferences API</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">14 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">13 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">12 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">11 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">08 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">9.00</td><td class="textmode">07 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">06 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">05 Nov, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15900</td><td class="textmode">Project Survey</td><td class="textmode">8.50</td><td class="textmode">04 Nov, 2019</td><td class="textmode">Project Survey Functionality is Completed
+</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15900</td><td class="textmode">Project Survey</td><td class="textmode">8.50</td><td class="textmode">01 Nov, 2019</td><td class="textmode">Today I Have to Make Survey Question Form For Project Survey</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Admin &amp; Finance</td><td class="textmode">Office/Computer Maintenance</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">0.50</td><td class="textmode">31 Oct, 2019</td><td class="textmode">For Birthday Celebration</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15900</td><td class="textmode">Project Survey</td><td class="textmode">8.00</td><td class="textmode">31 Oct, 2019</td><td class="textmode">Today I Have to Make Survey Question Form For Project Survey.</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15900</td><td class="textmode">Project Survey</td><td class="textmode">8.50</td><td class="textmode">30 Oct, 2019</td><td class="textmode">Today I Have Worked  on  Survey Question  For Project Survey</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15900</td><td class="textmode">Project Survey</td><td class="textmode">4.00</td><td class="textmode">29 Oct, 2019</td><td class="textmode">Today I Have to  Make Survey Question Form For Project Survey.</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">5.00</td><td class="textmode">29 Oct, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">8.50</td><td class="textmode">25 Oct, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">4.00</td><td class="textmode">24 Oct, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15515</td><td class="textmode">Project History Tracking </td><td class="textmode">5.00</td><td class="textmode">24 Oct, 2019</td><td class="textmode">Project History Tracking System is Completed.</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15515</td><td class="textmode">Project History Tracking </td><td class="textmode">8.50</td><td class="textmode">23 Oct, 2019</td><td class="textmode">Project History Tracking </td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15515</td><td class="textmode">Project History Tracking </td><td class="textmode">9.00</td><td class="textmode">22 Oct, 2019</td><td class="textmode">Project History Tracking</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15515</td><td class="textmode">Project History Tracking </td><td class="textmode">9.33</td><td class="textmode">21 Oct, 2019</td><td class="textmode">Project Tracking System.</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15515</td><td class="textmode">Project History Tracking </td><td class="textmode">2.50</td><td class="textmode">18 Oct, 2019</td><td class="textmode">Project History Tracking System</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Development</td><td class="textmode">Task Id :: 15514</td><td class="textmode">New OpenVio Feature</td><td class="textmode">6.00</td><td class="textmode">18 Oct, 2019</td><td class="textmode">Task Completed.</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">9.33</td><td class="textmode">17 Oct, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr style="background-color:White;">
+			<td class="textmode">Bicky  Kumar</td><td class="textmode">bicky@gmrwebteam.com</td><td class="textmode">Openvio</td><td class="textmode">Self Study &amp; Training</td><td class="textmode">&nbsp;</td><td class="textmode">&nbsp;</td><td class="textmode">9.17</td><td class="textmode">16 Oct, 2019</td><td class="textmode">Study the workflow and structure of the project</td>
+		</tr><tr>
+			<td align="left" valign="middle" colspan="9" style="font-size:12pt;font-weight:bold;height:30px;">Total Time Spent: 216.83</td>
+		</tr>
+	</table>
+</div>
